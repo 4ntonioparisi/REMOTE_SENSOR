@@ -1,0 +1,1 @@
+{"info":[{"ID":"4","DatiRilevati":"Ciao","Data":"ciao","Ora":"ciao","Apparecchiatura":"1","Tipologia":"TEMPERATURA"}]}
